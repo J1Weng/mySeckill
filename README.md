@@ -1,5 +1,5 @@
 # 一、项目介绍
-### 这是一个简单的秒杀系统，运用技术：Spring+SpringMvc+Mybatis+Maven+redis 
+### 这是一个简单的秒杀系统，运用技术：Spring+SpringMvc+Mybatis+Maven+redis+MySql
 -----------------
 # 二、功能介绍：
 * #### 展示秒杀商品列表 
